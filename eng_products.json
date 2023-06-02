@@ -3,23 +3,354 @@
     "name": "GO FOR PROTECTION",
     "subheadings": "Hydrating face cream",
     "productFeature": [
-      "Hydrates and protects the skin from external aggressions (pollution, blue light, infrared, UVA) that accelerate skin ageing.",
-      "Radiance is preserved and the signs of ageing linked to oxidative stress are pushed back."
+      "Hydrates and protects the skin from external aggressions (pollution, blue light, infrared, UVA) that accelerate skin ageing",
+      "Radiance is preserved and the signs of ageing linked to oxidative stress are pushed back"
     ],
     "price": "38,00 €",
     "ingredients": [
       {
         "igredientName": "PREBIOTICS",
-        "benefits": "Protection and balance of skin microbiota.",
+        "benefits": "Protection and balance of skin microbiota",
         "ingredientFeatures": [
-          "Accelerates cell renewal.",
-          "Prevents from bad bacterias.",
-          "Prevents from rednesses and irritation."
+          "Accelerates cell renewal",
+          "Prevents from bad bacterias",
+          "Prevents from rednesses and irritation"
+        ],
+        "otherInfo": [
+          "Nutritive elements (minerals, polysaccharides, peptides ...) intended to promote the proper development of the skin microbiome"
+        ]
+      },
+      {
+        "igredientName": "MATCHA",
+        "benefits": "Antioxidant - Anti-ageing",
+        "ingredientFeatures": [],
+        "otherInfo": [
+          "Rich in antioxidants",
+          "Higher concentration of active ingredients (polyphenols, tannins) than standard green tea: 137 times more powerful"
+        ]
+      },
+      {
+        "igredientName": "HYALURONIC ACID",
+        "benefits": "Hydrating - Plumping - Firming",
+        "ingredientFeatures": [
+          "Strengthens the epidermis in depth",
+          "Hydrates and plumps the skin",
+          "Reduces wrinkles and fine lines"
+        ],
+        "otherInfo": [
+          "Molecule capable of capturing up to 100 times its size in water",
+          "Naturally present in the skin but gradually decreases from 25 years"
         ]
       }
+    ]
+  },
+  "TIME TO DETOX": {
+    "name": "TIME TO DETOX",
+    "subheadings": "Universal cleansing balm",
+    "productFeature": [
+      "Removes pollution, dust, make-up and all accumulated impurities while nourishing and protecting the skin microbiota"
     ],
-    "otherInfo": [
-      "Nutritive elements (minerals, polysaccharides, peptides ...) intended to promote the proper development of the skin microbiome."
+    "price": "32,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PREBIOTICS",
+        "benefits": "Protection and balance of skin microbiota",
+        "ingredientFeatures": [
+          "Accelerates cell renewal",
+          "Prevents from bad bacterias",
+          "Prevents from rednesses and irritation"
+        ],
+        "otherInfo": [
+          "Nutritive elements (minerals, polysaccharides, peptides ...) intended to promote the proper development of the skin microbiome"
+        ]
+      },
+      {
+        "igredientName": "SHEA BUTTER",
+        "benefits": "Hydrating - Nourishing - Protective",
+        "ingredientFeatures": [
+          "Nourishes and moisturizes the epidermis in depth",
+          "Protects from external aggressions such as the sun or the cold"
+        ],
+        "otherInfo": [
+          "Rich in vitamins A, E, F",
+          "Anti-oxidants (such as catechins)",
+          "Anti-inflammatories (such as triterpenes)"
+        ]
+      },
+      {
+        "igredientName": "MORINGA OIL",
+        "benefits": "Anti-inflammatory - Anti-oxidant - Repairing",
+        "ingredientFeatures": [
+          "Repairs the skin barrier",
+          "Reinforces the hydrolipidic film of the skin",
+          "Anti-inflammatory, antibacterial and photoprotective properties"
+        ],
+        "otherInfo": ["Oleic acid: omega 9", "Vitamin E"]
+      }
+    ]
+  },
+  "GO FOR GLOW": {
+    "name": "GO FOR GLOW",
+    "subheadings": "Universal cleansing gel",
+    "productFeature": [
+      "Eliminates impurities and dead skin",
+      "Strengthens the skin's balance while respecting the microbiome"
+    ],
+    "price": "27,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PRE&PROBIOTICS",
+        "benefits": "Strengthen and balance the skin's microbiota",
+        "ingredientFeatures": [
+          "Accelerates cell renewal",
+          "Prevents from bad bacterias",
+          "Prevents from rednesses and irritation"
+        ],
+        "otherInfo": [
+          "Lactobacillus Casei,Lactococus lactis, Lactobacillus acidophilus and Streptococcus thermophilus"
+        ]
+      },
+      {
+        "igredientName": "POMEGRANATE ENZYMES",
+        "benefits": "Exfoliation - Cell renewal",
+        "ingredientFeatures": [
+          "Moisturizing and anti-wrinkle properties",
+          "For a more luminous and uniform skin",
+          "For a clear complexion and reduced wrinkles"
+        ],
+        "otherInfo": [
+          "Rich in vitamins A, B1, B2, B3, B12, C, E",
+          "Rich in trace elements (calcium, sodium, magnesium, zinc, potassium...)",
+          "Rich in amino acids"
+        ]
+      },
+      {
+        "igredientName": "ALOE VERA",
+        "benefits": "Hydrating - Healing",
+        "ingredientFeatures": ["Healing and hydrating properties"],
+        "otherInfo": [
+          "Molecule capable of capturing up to 100 times its size in water",
+          "Naturally present in the skin but gradually decreases from 25 years"
+        ]
+      }
+    ]
+  },
+  "TIME TO REPAIR": {
+    "name": "TIME TO REPAIR",
+    "subheadings": "Night regenerating cream",
+    "productFeature": ["Detoxifies, nourishes and repairs the skin"],
+    "price": "44,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PRE&PROBIOTICS",
+        "benefits": "Balance the skin's microbiota - Protect",
+        "ingredientFeatures": [
+          "Accelerates cell renewal",
+          "Prevents from bad bacterias",
+          "Prevents from rednesses and irritation"
+        ],
+        "otherInfo": [
+          "Lactobacillus Casei,Lactococus lactis, Lactobacillus acidophilus and Streptococcus thermophilus"
+        ]
+      },
+      {
+        "igredientName": "COLLAGEN BOOSTER",
+        "benefits": "Referming - Anti oxidant - Energizing",
+        "ingredientFeatures": [
+          "Detoxifies and activates collagen synthesis",
+          "Increases collagen density",
+          "Reduces wrinkles in 2 weeks"
+        ],
+        "otherInfo": [
+          "Rich in antioxidants",
+          "Its enzymes, fatty acids, amino acids and vitamins also form a real revitalizing cocktail for the skin"
+        ]
+      },
+      {
+        "igredientName": "THISTLE OIL",
+        "benefits": "Regenerating - Repulping - Antioxidant",
+        "ingredientFeatures": [
+          "Regerate the skin's barrier",
+          "Strenghtens the skin's natural defences"
+        ],
+        "otherInfo": [
+          "Rich in vitamin E & essential fatty acids",
+          "Contains Silymarin (specific to the plant Milk Thistle) which is a very powerful antioxidant"
+        ]
+      }
+    ]
+  },
+  "HAPPY AGE": {
+    "name": "HAPPY AGE",
+    "subheadings": "Anti-ageing serum",
+    "productFeature": [
+      "Global anti-ageing serum acts in a targeted way on all signs of ageing"
+    ],
+    "price": "55,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PRE&PRO&POSTBIOTICS",
+        "benefits": "Strengthen and balance the skin's microbiota",
+        "ingredientFeatures": [
+          "Accelerates cell renewal",
+          "Prevents from bad bacterias",
+          "Prevents from rednesses and irritation"
+        ],
+        "otherInfo": [
+          "Lactobacillus Casei,Lactococus lactis, Lactobacillus acidophilus and Streptococcus thermophilus"
+        ]
+      },
+      {
+        "igredientName": "HYALURONIC ACID",
+        "benefits": "Hydrating - Plumping - Firming",
+        "ingredientFeatures": [
+          "Deeply strengthens the epidermis",
+          "Moisturizes and plumps the skin",
+          "Reduces wrinkles and fine lines"
+        ],
+        "otherInfo": [
+          "Molecule capable of capturing up to 100 times its size in water",
+          "Naturally present in the skin but gradually decreases from 25 years"
+        ]
+      },
+      {
+        "igredientName": "CBD LIKE STEVIA OIL",
+        "benefits": "Soothing - Relaxing",
+        "ingredientFeatures": [
+          "Soothes the features",
+          "Relaxes and relieves muscular contractions"
+        ],
+        "otherInfo": []
+      }
+    ]
+  },
+  "SCLUPT&GLOW": {
+    "name": "SCLUPT&GLOW",
+    "subheadings": "Face oil",
+    "productFeature": [
+      "Redensifies, smoothes, nourishes, soothes and protects for a firmer and more luminous skin"
+    ],
+    "price": "38,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PREBIOTIC FERMENT",
+        "benefits": "Protect - Balance - Antioxidant",
+        "ingredientFeatures": [
+          "Maintains the barrier and preserves the diversity of the microbiota",
+          "Boosts natural antioxidant and anti-bacterial defenses"
+        ],
+        "otherInfo": [
+          "This post-biotic with a pre-biotic effect and a unique lipidic composition acts on the skin's ecosystem to maintain its barrier function, preserve the diversity of the microbiota and rebalance it. It boosts the skin's natural anti-oxidant and antibacterial defenses, strengthens the cohesion of the dermo-epidermal junction and increases the synthesis and transport of epidermal lipids"
+        ]
+      },
+      {
+        "igredientName": "VEGETAL RETINOL",
+        "benefits": "Firming - Glowing - Smoothing - Redensifying",
+        "ingredientFeatures": [
+          "Increases collagen synthesis",
+          "Redensifies the dermis and smoothes the skin texture",
+          "Reduces wrinkles and roughness",
+          "Reduces pores and brightens the complexion"
+        ],
+        "otherInfo": [
+          "Extract of marine fennel increases the synthesis of collagen and reduces its degradation"
+        ]
+      },
+      {
+        "igredientName": "GOLDEN SEAWEED EXTRACT",
+        "benefits": "Soothing - Protecting - Anti-aging",
+        "ingredientFeatures": [
+          "Soothes and protects DNA from photo-aging",
+          "Guards against oxidative stress",
+          "Enhances skin's photoprotection"
+        ],
+        "otherInfo": [
+          " DNA and photo-aging protector against UV-induced damage. Reduces skin inflammation mediators subjected to UV, significantly protects DNA from UVB-induced damage, thus preventing premature skin aging caused by oxidative stress, and enhances skin photoprotection even without UV filters"
+        ]
+      }
+    ]
+  },
+  "GO FOR DETOX": {
+    "name": "GO FOR DETOX",
+    "subheadings": "Food supplemen",
+    "productFeature": [
+      "Helps eliminate toxins, better drain and purify the body",
+      "Cleaned of its waste, the body regains all its functionality",
+      "Its energy is better distributed and the skin is more beautiful"
+    ],
+    "price": "35,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PREBIOTICS",
+        "benefits": "Strengthens the digestive system",
+        "ingredientFeatures": [
+          "Nourishes and facilitates the development of good bacteria",
+          "Strengthens the digestive system"
+        ],
+        "otherInfo": ["Organic Acacia Fibers"]
+      },
+      {
+        "igredientName": "TURMERIC ROOT EXTRACT",
+        "benefits": "Digestive comfort",
+        "ingredientFeatures": [
+          "Facilitates the digestion of fats",
+          "Helps maintain liver function",
+          "Powerful antioxidant and anti-inflammatory"
+        ],
+        "otherInfo": []
+      },
+      {
+        "igredientName": "ORGANIC ARTICHOKE LEAF",
+        "benefits": "Detoxifies and drains the liver",
+        "ingredientFeatures": [
+          "Contributes to the detoxification and draining of the liver"
+        ],
+        "otherInfo": []
+      }
+    ]
+  },
+  "GO FOR PROTECTION 2": {
+    "name": "GO FOR PROTECTION 2",
+    "subheadings": "Food supplemen",
+    "productFeature": [
+      "Acts from within to strengthen the immune system and help the body to better protect itself from external aggressions that accelerate skin ageing"
+    ],
+    "price": "35,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PREBIOTICS",
+        "benefits": "Protects the immune system",
+        "ingredientFeatures": [
+          "Nourishes and facilitates the development of good bacteria",
+          "Strengthens the immune system"
+        ],
+        "otherInfo": ["Organic Acacia Fibers"]
+      },
+      {
+        "igredientName": "A COMBINATION OF 4 STRAINS OF PROBIOTICS",
+        "benefits": "Strengthens  - Balances",
+        "ingredientFeatures": [
+          "Strengthens the immune system",
+          "Balances the intestinal flora"
+        ],
+        "otherInfo": [
+          "Lactobacillus Casei,Lactococus lactis, Lactobacillus acidophilus and Streptococcus thermophilus"
+        ]
+      },
+      {
+        "igredientName": "VITAMINS AND OLIGO-ELEMENTS",
+        "benefits": "ZINC : Anti-oxidant - Healing MANGANESE : Anti-oxidant - Protector VITAMIN B3 : Energizing",
+        "ingredientFeatures": [
+          "Treats skin problems",
+          "Fights against free radicals",
+          "Participates in the production of different lipids and their derivatives"
+        ],
+        "otherInfo": [
+          "Zinc (50%AR)",
+          "Manganese 1mg (50% AR)",
+          "Vitamin B3 (100% AR)"
+        ]
+      }
     ]
   }
 }
