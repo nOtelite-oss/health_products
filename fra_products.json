@@ -3,22 +3,22 @@
     "name": "GO FOR PROTECTION",
     "subheadings": "SOIN JOUR HYDRATANT",
     "productFeature": [
-      "Hydrate et protège la peau des agressions extérieures ( lumière bleue, pollution et infrarouge) accélératrices du vieillissement cutané."
+      "Hydrate et protège la peau des agressions extérieures ( lumière bleue, pollution et infrarouge) accélératrices du vieillissement cutané"
     ],
     "price": "38,00 €",
     "ingredients": [
       {
         "igredientName": "PRÉBIOTIQUES",
-        "benefits": "Protection et équilibre du microbiote cutané.",
+        "benefits": "Protection et équilibre du microbiote cutané",
         "ingredientFeatures": [
-          "Accélèrent le renouvellement cellulaire.",
-          "Augmentent la production de protéine.",
-          "Augmentent la production d'enzymes."
+          "Accélèrent le renouvellement cellulaire",
+          "Augmentent la production de protéine",
+          "Augmentent la production d'enzymes"
+        ],
+        "otherInfo": [
+          "Éléments nutritifs (minéraux, polysaccharides peptides …) destinés à favoriser le bon développement du microbiome cutané"
         ]
       }
-    ],
-    "otherInfo": [
-      "Éléments nutritifs (minéraux, polysaccharides peptides …) destinés à favoriser le bon développement du microbiome cutané."
     ]
   }
 }
