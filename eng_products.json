@@ -1,0 +1,25 @@
+{
+  "GO FOR PROTECTION": {
+    "name": "GO FOR PROTECTION",
+    "subheadings": "Hydrating face cream",
+    "productFeature": [
+      "Hydrates and protects the skin from external aggressions (pollution, blue light, infrared, UVA) that accelerate skin ageing.",
+      "Radiance is preserved and the signs of ageing linked to oxidative stress are pushed back."
+    ],
+    "price": "38,00 €",
+    "ingredients": [
+      {
+        "igredientName": "PREBIOTICS",
+        "benefits": "Protection and balance of skin microbiota.",
+        "ingredientFeatures": [
+          "Accelerates cell renewal.",
+          "Prevents from bad bacterias.",
+          "Prevents from rednesses and irritation."
+        ]
+      }
+    ],
+    "otherInfo": [
+      "Nutritive elements (minerals, polysaccharides, peptides ...) intended to promote the proper development of the skin microbiome."
+    ]
+  }
+}
