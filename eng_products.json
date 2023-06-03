@@ -2,10 +2,7 @@
   "GO FOR PROTECTION": {
     "name": "GO FOR PROTECTION",
     "subheadings": "Hydrating face cream",
-    "productFeature": [
-      "Hydrates and protects the skin from external aggressions (pollution, blue light, infrared, UVA) that accelerate skin ageing",
-      "Radiance is preserved and the signs of ageing linked to oxidative stress are pushed back"
-    ],
+    "productFeature": "Hydrates and protects the skin from external aggressions (pollution, blue light, infrared, UVA) that accelerate skin ageing. Radiance is preserved and the signs of ageing linked to oxidative stress are pushed back",
     "price": "38,00 €",
     "ingredients": [
       {
@@ -47,9 +44,7 @@
   "TIME TO DETOX": {
     "name": "TIME TO DETOX",
     "subheadings": "Universal cleansing balm",
-    "productFeature": [
-      "Removes pollution, dust, make-up and all accumulated impurities while nourishing and protecting the skin microbiota"
-    ],
+    "productFeature": "Removes pollution, dust, make-up and all accumulated impurities while nourishing and protecting the skin microbiota",
     "price": "32,00 €",
     "ingredients": [
       {
@@ -92,10 +87,7 @@
   "GO FOR GLOW": {
     "name": "GO FOR GLOW",
     "subheadings": "Universal cleansing gel",
-    "productFeature": [
-      "Eliminates impurities and dead skin",
-      "Strengthens the skin's balance while respecting the microbiome"
-    ],
+    "productFeature": "Eliminates impurities and dead skin. Strengthens the skin's balance while respecting the microbiome",
     "price": "27,00 €",
     "ingredients": [
       {
@@ -138,7 +130,7 @@
   "TIME TO REPAIR": {
     "name": "TIME TO REPAIR",
     "subheadings": "Night regenerating cream",
-    "productFeature": ["Detoxifies, nourishes and repairs the skin"],
+    "productFeature": "Detoxifies, nourishes and repairs the skin",
     "price": "44,00 €",
     "ingredients": [
       {
@@ -183,9 +175,7 @@
   "HAPPY AGE": {
     "name": "HAPPY AGE",
     "subheadings": "Anti-ageing serum",
-    "productFeature": [
-      "Global anti-ageing serum acts in a targeted way on all signs of ageing"
-    ],
+    "productFeature": "Global anti-ageing serum acts in a targeted way on all signs of ageing",
     "price": "55,00 €",
     "ingredients": [
       {
@@ -227,9 +217,7 @@
   "SCLUPT&GLOW": {
     "name": "SCLUPT&GLOW",
     "subheadings": "Face oil",
-    "productFeature": [
-      "Redensifies, smoothes, nourishes, soothes and protects for a firmer and more luminous skin"
-    ],
+    "productFeature": "Redensifies, smoothes, nourishes, soothes and protects for a firmer and more luminous skin",
     "price": "38,00 €",
     "ingredients": [
       {
@@ -273,11 +261,7 @@
   "GO FOR DETOX": {
     "name": "GO FOR DETOX",
     "subheadings": "Food supplemen",
-    "productFeature": [
-      "Helps eliminate toxins, better drain and purify the body",
-      "Cleaned of its waste, the body regains all its functionality",
-      "Its energy is better distributed and the skin is more beautiful"
-    ],
+    "productFeature": "Helps eliminate toxins, better drain and purify the body. Cleaned of its waste, the body regains all its functionality. Its energy is better distributed and the skin is more beautiful",
     "price": "35,00 €",
     "ingredients": [
       {
@@ -312,9 +296,7 @@
   "GO FOR PROTECTION 2": {
     "name": "GO FOR PROTECTION 2",
     "subheadings": "Food supplemen",
-    "productFeature": [
-      "Acts from within to strengthen the immune system and help the body to better protect itself from external aggressions that accelerate skin ageing"
-    ],
+    "productFeature": "Acts from within to strengthen the immune system and help the body to better protect itself from external aggressions that accelerate skin ageing",
     "price": "35,00 €",
     "ingredients": [
       {

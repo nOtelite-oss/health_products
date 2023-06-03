@@ -2,9 +2,7 @@
   "GO FOR PROTECTION": {
     "name": "GO FOR PROTECTION",
     "subheadings": "SOIN JOUR HYDRATANT",
-    "productFeature": [
-      "Hydrate et protège la peau des agressions extérieures ( lumière bleue, pollution et infrarouge) accélératrices du vieillissement cutané"
-    ],
+    "productFeature": "Hydrate et protège la peau des agressions extérieures ( lumière bleue, pollution et infrarouge) accélératrices du vieillissement cutané",
     "price": "38,00 €",
     "ingredients": [
       {
@@ -95,9 +93,7 @@
   "GO FOR GLOW": {
     "name": "GO FOR GLOW",
     "subheadings": "GEL NETTOYANT UNIVERSEL",
-    "productFeature": [
-      "Elimine les impuretés et les peaux mortes. Renforce l'équilibre cutané tout en respectant le microbiome"
-    ],
+    "productFeature": "Elimine les impuretés et les peaux mortes. Renforce l'équilibre cutané tout en respectant le microbiome",
     "price": "27,00 €",
     "ingredients": [
       {
@@ -140,7 +136,7 @@
   "TIME TO REPAIR": {
     "name": "TIME TO REPAIR",
     "subheadings": "SOIN NUIT REGENERANT",
-    "productFeature": ["Detoxifie, nourrit et répare la peau"],
+    "productFeature": "Detoxifie, nourrit et répare la peau",
     "price": "44,00 €",
     "ingredients": [
       {
@@ -182,9 +178,7 @@
   "HAPPY AGE": {
     "name": "HAPPY AGE",
     "subheadings": "SÉRUM ANTI-AGE",
-    "productFeature": [
-      "Agit sur les signes de 'âge : rides, déshydratation, manque d'éclat, perte de fermeté et/ou d'élasticité"
-    ],
+    "productFeature": "Agit sur les signes de 'âge : rides, déshydratation, manque d'éclat, perte de fermeté et/ou d'élasticité",
     "price": "55,00 €",
     "ingredients": [
       {
@@ -226,9 +220,7 @@
   "SCLUPT&GLOW": {
     "name": "SCLUPT&GLOW",
     "subheadings": "HUILE DE SOIN NUIT",
-    "productFeature": [
-      "Redensifie, lisse, nourrit, apaise et protège le derme"
-    ],
+    "productFeature": "Redensifie, lisse, nourrit, apaise et protège le derme",
     "price": "38,00 €",
     "ingredients": [
       {
@@ -272,10 +264,7 @@
   "GO FOR DETOX": {
     "name": "GO FOR DETOX",
     "subheadings": "COMPLÉMENTS ALIMENTAIRES",
-    "productFeature": [
-      "Facilite la digestion et aide au bon fonctionnement du foie grâce à sa teneur en Zinc, il permet de maintenir un metabolisme acidobasique normal, une peau saine et de réduire les problèmes de peau et d’acné",
-      "Riche en Vitamine B6, il contribue aussi à réduire la fatigue"
-    ],
+    "productFeature": "Facilite la digestion et aide au bon fonctionnement du foie grâce à sa teneur en Zinc, il permet de maintenir un metabolisme acidobasique normal, une peau saine et de réduire les problèmes de peau et d’acné. Riche en Vitamine B6, il contribue aussi à réduire la fatigue",
     "price": "35,00 €",
     "ingredients": [
       {
@@ -310,9 +299,7 @@
   "GO FOR PROTECTION 2": {
     "name": "GO FOR PROTECTION 2",
     "subheadings": "COMPLÉMENTS ALIMENTAIRES",
-    "productFeature": [
-      "Renforce le système immunitaire et aide le corps à mieux se protéger des agressions extérieures accélératrices du vieillissement cutané"
-    ],
+    "productFeature": "Renforce le système immunitaire et aide le corps à mieux se protéger des agressions extérieures accélératrices du vieillissement cutané",
     "price": "35,00 €",
     "ingredients": [
       {
