@@ -18,6 +18,32 @@
         "otherInfo": [
           "Éléments nutritifs (minéraux, polysaccharides peptides …) destinés à favoriser le bon développement du microbiome cutané."
         ]
+      },
+      {
+        "igredientName": "MATCHA",
+        "benefits": "Antioxydant - Anti-âge",
+        "ingredientFeatures": [
+          "Prévient les signes de l'âge",
+          "Favorise un teint plus lumineux",
+          "Vertus anti-inflammatoire, anti-stress et anti-rougeur"
+        ],
+        "otherInfo": [
+          "Riche en antioxydants",
+          "Plus concentré en principes actifs (polyphénols, tanins) que le thé vert standard: 137 fois plus puissant"
+        ]
+      },
+      {
+        "igredientName": "ACIDE HYALURONIQUE",
+        "benefits": "Hydratant - Repulpant - Raffermissant",
+        "ingredientFeatures": [
+          "Renforce en profondeur l'épiderme",
+          "Hydrate et repulpe la peau",
+          "Diminue les rides et les ridules"
+        ],
+        "otherInfo": [
+          "Molécule capable de capter jusqu’à 100 fois sa taille en eau",
+          "Présent naturellement dans la peau mais diminue progressivement à partir de 25ans"
+        ]
       }
     ]
   },
