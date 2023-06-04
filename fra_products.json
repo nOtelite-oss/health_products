@@ -123,8 +123,8 @@
       },
       {
         "igredientName": "ALOE VERA",
-        "benefits": "Hydrating - Healing",
-        "ingredientFeatures": ["Healing and hydrating properties"],
+        "benefits": "Hydratant - Cicatrisant",
+        "ingredientFeatures": ["Vertus cicatrisantes et hydratantes"],
         "otherInfo": [
           "Riche en vitamines A, B1, B2, B3, B12, C, E",
           "Riche en oligo-éléments (calcium, sodium, magnésium, zinc, potassium…)",
@@ -213,7 +213,9 @@
           "Apaise les traits",
           "Destresse et relaxe les contractions musculaires"
         ],
-        "otherInfo": []
+        "otherInfo": [
+          "Un actif issu d’un Plancton Marin provenant de la mer d’Iroise, stimulant la synthèse de collagène et d’élastine, et tenseur du derme.« CBD like »"
+        ]
       }
     ]
   },
@@ -308,7 +310,7 @@
         "ingredientFeatures": [
           "Nourrit et facilite le developpement des bonnes bactéries"
         ],
-        "otherInfo": ["des Fibres d’Acacia BIO"]
+        "otherInfo": ["Des Fibres d’Acacia BIO"]
       },
       {
         "igredientName": "UNE ASSOCIATION DE 4 SOUCHES DE PROBIOTIQUES",
